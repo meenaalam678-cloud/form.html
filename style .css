@@ -1,0 +1,22 @@
+form{
+max-width: 500px;
+margin:0px;
+padding: 20px;
+background-color: #f9f9;
+border-radius: 8px;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input type{
+    width: 100%;
+    padding: 10px;
+    border: 1px;
+    border-radius:4px;
+    
+}
+
+
+
