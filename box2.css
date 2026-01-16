@@ -1,0 +1,44 @@
+.repository{
+display:flex;
+ background-color: azure; 
+ width:80px;
+
+}
+.laptop
+{display: inline-block;
+height: 40px;
+position: relative;
+top: 40px;
+right:50px
+
+}
+.format{
+width:100px;
+position:fixed;
+left: 80px;
+right:80px;
+
+}
+.apple{
+display: grid;
+width: 50px;
+position:relative;
+right:50px;
+bottom:70px;
+}
+.apricot{
+background-color: blue;
+width:90px;
+position: static;
+left: 30px;
+right:40px;
+
+}
+.picture{
+height: 100px;
+background-color: beige;
+position: relative;
+bottom: 90px;
+left: 100px;
+}
+
